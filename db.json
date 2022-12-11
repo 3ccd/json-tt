@@ -1,0 +1,12 @@
+{
+    "messages":[
+        {
+            "to_email":"test@test.com",
+            "status":"not_delivered"
+        },
+        {
+            "to_email":"test1@test.com",
+            "status":"not_delivered"
+        }
+    ]
+}
